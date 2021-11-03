@@ -1,6 +1,7 @@
-# digit_recognizer-deep_learning
+# Digit Recognizer by Deep Learning
 
-## data from kaggle
+## Data
+The data is from kaggle <link>('https://www.kaggle.com/c/digit-recognizer')
 
 ## predict what number in the test images
 
