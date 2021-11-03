@@ -1,7 +1,7 @@
 # Digit Recognizer by Deep Learning
 
 ## Data
-The data source is from [kaggle](https://www.kaggle.com/c/digit-recognizer).\ 
+The data source is from [kaggle](https://www.kaggle.com/c/digit-recognizer).\n 
 The first column of training set is the label of each image, and the corresbonding columns are the pixel values of each image. The testing set is almost the same as training set, but the testing set is without the label column. Therefore, we need to train a neural network to predict these label and conclude the predicted ability of the model.
 
 ## Analysis
